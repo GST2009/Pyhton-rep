@@ -1,7 +1,10 @@
 TASK 1
 Start
+
 Input:enter the first number (A)
+
 Convert: Convert the input value into an integer
+
 Input:enter the second number (B)
 Convert: Convert the input value into an integer
 Process:
