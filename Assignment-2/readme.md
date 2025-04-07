@@ -22,3 +22,15 @@ Add the current value of i to A.
 Output the value of A with the message: "The sum of numbers from 1 to 50 is: ".
 
 end
+
+TASK 2
+
+give variable A to 0 (to store the sum).
+
+Loop from i = 1 to i = 50:
+
+Add the current value of i to A.
+
+Print the final sum A.
+
+End
