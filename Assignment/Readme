@@ -1,1 +1,23 @@
+Task 1
+Opening a file as a file 
 
+Assigning variable name to read the file lines
+
+Print the line1,line2 with the read tags
+
+Using the except function for a file not found error
+
+again print error statement
+
+Task2
+Providing the file1 to be opened as a read and write file
+
+giving the input as " Data successfully written to output.txt"
+
+providing another name for the same file to print the additional statement using append
+
+printing the final content 
+
+with read =file.read()
+
+and closing the file1.
