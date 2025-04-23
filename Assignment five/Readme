@@ -1,1 +1,51 @@
+TASK 1
 
+Start
+
+give the student data
+
+Create a dictionary called Studentdata with student names as keys and their marks as values.
+
+Input the student name
+
+Prompt the user to enter a student's name and store it in a variable Studentname.
+
+Check if the name exists in the dictionary
+
+Use an if condition to check whether the entered name is a key in Studentdata.
+
+If the name exists:
+
+a. Retrieve the corresponding marks from the dictionary.
+
+b. Display the student's name and marks.
+
+Else:
+
+Display a message saying "Student name not found".
+
+End
+
+TASK 2
+
+Start
+
+Input the original list
+
+Prompt the user to enter a list and store it in a variable called List.
+
+Extract the first nine elements
+
+Use slicing to get the first nine elements from the list:
+
+Display the first five elements
+
+Reverse the extracted elements
+
+Reverse firstfive using slicing with a step of -1:
+
+Display the reversed elements
+
+Print the reversed list as the "last five elements" (again, the label may be misleading depending on intent).
+
+End
